@@ -1,0 +1,9 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "terser": "^4.2.0"
+  }
+}
